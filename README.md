@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks JavaScript, TypeScript and PHP as Language.
+
 I help to bring web and app related dream to live with tools like Bootstrap, React, Angular, Ionic, YII and LARAVEL Frameworks.
+
 I currently work at [Bincom ICT Solutions](https://bincom.net/) a fast growing ICT Solutions firm in Nigeria.
 
 - 🌱 I’m currently learning - [golang](https://golang.org/)
