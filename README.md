@@ -3,7 +3,7 @@ I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks JavaScr
 
 I help to bring web and app related dream to live.
 
-I currently work remotely as a Software Engineer at [YokunBo](https://www.yokunbo.com/) a software studio based in Nigeria that works delivers solutions with partners globally.
+I currently work remotely as a Software Engineer at [Yokunbo Software Studio](https://www.yokunbo.com/) a software studio based in Nigeria that works delivers solutions with partners globally.
 
 - 🌱 I’m currently learning - [golang](https://golang.org/)
 - 📫 How to reach me: [LinkedIn/in/ereyomi](https://linkedin.com/in/ereyomi/)
