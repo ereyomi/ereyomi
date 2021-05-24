@@ -10,8 +10,8 @@ I currently work remotely as a Software Engineer at [SOFTESCU](http://softescu.c
 
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubham-sns&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shubham-sns&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=ereyomi&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ereyomi&theme=dark&hide_border=true" width = 400>
 </p>
 
 <!--
