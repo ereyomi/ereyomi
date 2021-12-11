@@ -3,9 +3,8 @@ I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks JavaScr
 
 I help to bring web and app related dream to live.
 
-I currently work remotely as a Software Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based out of New York City with more than 10 years of experience in delivering ICT services worldwide. 
+I currently work remotely as a Software Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based in România with many years of experience in delivering ICT services worldwide. 
 
-- 🌱 I’m currently learning - [golang](https://golang.org/)
 - 📫 How to reach me: [LinkedIn/in/ereyomi](https://linkedin.com/in/ereyomi/)
 
 <p align = "center">
