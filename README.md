@@ -4,7 +4,7 @@ Stacks: Angular, React, Ionic Framework, Laravel, Express.
 
 I help to bring web and app related dream to live.
 
-I currently work remotely as a Software Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based in România with many years of experience in delivering ICT services worldwide. 
+I currently work remotely as a Software Frontend Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based in România with many years of experience in delivering ICT services worldwide. 
 
 - 📫 How to reach me: [LinkedIn/in/ereyomi](https://linkedin.com/in/ereyomi/)
 
