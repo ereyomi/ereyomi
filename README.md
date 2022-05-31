@@ -6,7 +6,7 @@ I help to bring web and app related dream to live.
 
 I currently work remotely as a Software Frontend Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based in România with many years of experience in delivering ICT services worldwide. 
 
-- 📫 How to reach me: [LinkedIn/in/ereyomi](https://linkedin.com/in/ereyomi/)
+- 📫 How to reach me: [linkedIn/in/ereyomi](https://linkedin.com/in/ereyomi/), [ereyomioluwaseyi@gmail.com](mailto:ereyomioluwaseyi@email.com), [+2347035432921](tel:+2347035432921)
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ereyomi&show_icons=true&theme=bear" width = 400>
