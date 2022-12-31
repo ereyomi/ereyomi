@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks JavaScript, TypeScript and PHP as Language.
-Stacks: Angular, React, Ionic, Next.js, Laravel API, Express.
+Stacks: Angular, React, Ionic, Next.js, Laravel API, Express(Node.js), Nest.js(Node.js).
 
 I help to bring web and app related dream to live.
 
@@ -24,6 +24,8 @@ I currently work remotely as a Software Frontend Engineer at [SOFTESCU](http://s
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/ereyomi)
 [![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/ereyomi)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ereyomi)
+[![NEXT.JS](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=next.js&logoColor=61DAFB)](https://github.com/ereyomi)
+[![NEST.JS](https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=61DAFB)](https://github.com/ereyomi)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ereyomi)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ereyomi)
