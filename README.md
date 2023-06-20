@@ -4,8 +4,6 @@ Stacks: Angular, React, Ionic, Next.js, Laravel API, Express(Node.js), Nest.js(N
 
 I help to bring web and app related dream to live.
 
-I currently work remotely as a Software Frontend Engineer at [SOFTESCU](http://softescu.com/). Softescu is a leading software services company based in România with many years of experience in delivering ICT services worldwide. 
-
 ## CONTACTS:
 
 [![Facebook](https://img.shields.io/badge/facebook-005FED.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ereyomio/)
