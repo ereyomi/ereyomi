@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks JavaScript, TypeScript and PHP as Language.
-Stacks: Angular, React, Ionic Framework (Mobile), Capacitor, Next.js, Laravel API, Express(Node.js), Nest.js(Node.js).
+I'm Ereyomi Oluwaseyi Samuel. I am a Full Stack Web developer who speaks Yoruba, English, JavaScript and TypeScript.
+Stacks: Angular, React, React Native, Capacitor, Next.js, Nest.js(Node.js), Typeorm, Postgress, MySql, Rxjs, NgRx, Signal, Ionic Framework (Mobile), Playwright, Cypress, Jest.
+AWS, Digital Ocean, Jira, Slack, Scrum, Figma, Docker.
 
-I help to bring web and app related dream to live.
+I help to bring web and app related dream to live and that include my dream too.
 
 ## CONTACTS:
 
