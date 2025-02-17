@@ -17,11 +17,13 @@ I help to bring web and app related dream to live and that include my dream too.
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/ereyomi)
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ereyomi)
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/ereyomi)
-[![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/ereyomi)
+[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](https://github.com/ereyomi)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/ereyomi)
 [![NEXT.JS](https://img.shields.io/badge/Nest.js-100000?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/ereyomi)
 [![NODE.JS](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js&logoColor=339933)](https://github.com/ereyomi)
 [![NEST.JS](https://img.shields.io/badge/nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)](https://github.com/ereyomi)
+
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=nestjs&logoColor=FFFFFF)](#)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ereyomi)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ereyomi)
@@ -29,6 +31,7 @@ I help to bring web and app related dream to live and that include my dream too.
 [![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://github.com/ereyomi)
 [![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/ereyomi)
 [![MATERIALUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://github.com/ereyomi)
+[![IONIC](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)](https://github.com/ereyomi)
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![COMPOSER](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)]()
